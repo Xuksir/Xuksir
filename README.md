@@ -1,16 +1,18 @@
-### Hi there 👋
+# Здравствуй 🍺
+Рад приветствовать тебя в моем профиле.
 
-<!--
-**Xuksir/Xuksir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я `JS` кодер.
+<br>
+Список моих языков:
+> + JavaScript
+> + C#
 
-Here are some ideas to get you started:
+<details>
+  <summary>:speech_balloon: Discord:</summary>
+    <hr>
+    <a href="https://discord.com/users/805865940343980084">
+    <img src="https://api.alexflipnote.dev/captcha?text=Xuksi%238943" />
+    </a>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
